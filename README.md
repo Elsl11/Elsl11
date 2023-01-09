@@ -1,10 +1,17 @@
-### Hi there 👋, Elnur Slan
-#### Student
 ![Student](https://pbs.twimg.com/profile_banners/1608793594156154882/1673303997/1500x500)
+
+
+### Hi there 👋, Elnur Slan
+#### Student 👨‍🎓
+
 
 I'm Elnur.Studying in university on Computer Science bachelors program.A bit lazy but really curious about new things.Like to try my best if payoff is good. 
 
-Skills: MySQL / Python / JS / HTML / CSS
+
+Skills&Experience
+👨‍💻 MySQL / Python / JS / HTML / CSS
+🤵‍♂️ Customer Service
+👨‍🔧 Logistics 
 
 - 🔭 I’m currently working on myself. 
 - 🌱 I’m currently learning Programming 
