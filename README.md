@@ -14,6 +14,9 @@ I'm Elnur.Studying in university on Computer Science bachelors program.A bit laz
 🤵‍♂️ Customer Service
 👨‍🔧 Logistics 
 
+
+## Other
+
 - 🔭 I’m currently working on myself. 
 - 🌱 I’m currently learning Programming 
 - 🤔 I’m looking for help with Learning 
