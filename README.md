@@ -5,7 +5,7 @@
 #### Student 👨‍🎓
 
 
-I'm Elnur.Studying in university on Computer Science bachelors program.A bit lazy but really curious about new things.Like to try my best if payoff is good. 
+I'm Elnur.Studying in university on Computer Science bachelors program.Really curious about new things.Like to try my best if pay-off is good. 
 
 
 ## Skills&Experience
