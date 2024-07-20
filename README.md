@@ -1,11 +1,11 @@
 ![Student](https://pbs.twimg.com/profile_banners/1608793594156154882/1673303997/1500x500)
 
 
-### Hi there 👋, Elnur Slan
+### Hi there 👋,
 #### Student 👨‍🎓
 
 
-I'm Elnur.Studying in university on Computer Science bachelors program.Really curious about new things.Like to try my best if pay-off is good. 
+I'm Elnur.Studying in university on Computer Science bachelors program.Really curious about new things.Like to try my best and gain neccesary expirience!
 
 
 ## Skills&Experience
