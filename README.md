@@ -5,7 +5,7 @@
 #### Student 👨‍🎓
 
 
-Studying in university on Computer Science bachelors program.Really curious about new things.Like to try my best and gain neccesary expirience!
+Studying in university on Computer Science bachelors program.Really curious about new things.Like to try my best and gain necessary experience!
 
 
 ## Skills&Experience
